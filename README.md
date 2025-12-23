@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi, I am Nicole 👋</b></h1>
-<p align="center"><b>Computer Science specializing in Digital Forensics at National University Manila, Philippines</b></p>
+<p align="center"><b>BS Computer Science specializing in Digital Forensics at National University Manila</b></p>
 
 Connect with me !
 
