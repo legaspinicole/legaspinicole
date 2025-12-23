@@ -1,4 +1,6 @@
-## 👋
+<h1 align="center"><b>Hi, I am Nicole 👋</b></h1>
+<h2 align="center"><b>Computer Science specializing in Digital Forensics at National University Manila</b></h2>
+
 
 Connect with me !
 
